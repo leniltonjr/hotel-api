@@ -1,0 +1,6 @@
+
+
+dicas composer
+
+para criar o arquivo composer.json pode ser usado o comando
+- composer init

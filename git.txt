@@ -1,0 +1,4 @@
+git init
+git remote add origin https://github.com/leniltonjr/hotel-api.git
+git add -add
+git commit -m "Publicando o pacote"

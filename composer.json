@@ -1,0 +1,21 @@
+{
+    "name": "leniltonjr/hotel-api",
+    "description": "Hotel API package",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jose Coelho",
+            "email": "leniltonjr@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "guzzlehttp/guzzle": "^7.0"
+                },
+    "autoload": {
+        "psr-4": {
+            "HotelApi\\": "src/"
+        }
+    }
+}
